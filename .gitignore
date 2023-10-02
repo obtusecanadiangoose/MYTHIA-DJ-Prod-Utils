@@ -1,1 +1,3 @@
 spotify-playlist-key-finder/.spotify_creds.json
+*/.cache
+spotify-playlist-key-finder/.gspread_creds.json
